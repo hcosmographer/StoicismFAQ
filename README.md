@@ -2,7 +2,7 @@
 
 # Stoicism FAQ
 
-This repository contains the source for the content of the Stoicism FAQ at [stoicismfaq.org](http://stoicismfaq.org),
+This repository contains the source for the content of the Stoicism FAQ at [stoicismfaq.info](http://stoicismfaq.info),
 which is the same as the source for most of the [r/stoicism subreddit FAQ](https://www.reddit.com/r/Stoicism/wiki/guide).
 (Answers to a couple of questions on the subreddit FAQ are not present in this repository or at stoicismfaq.org, because I have
 not been able to contact the authors to get permission to place them under the CC-BY-SA license.)
