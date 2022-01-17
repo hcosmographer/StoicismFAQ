@@ -8,7 +8,7 @@ Threads linked to are selected to cover a range of typical viewpoints covered in
 
 ## What is "modern Stoicism"?
 - ["Symposium: What is Modern Stoicism?"](https://modernstoicism.com/symposium-what-is-modern-stoicism/)
-- ["What Is Modern Stoicism? – Additional Reflections from Sellars and Sadler"](http://modernstoicism.com/what-is-modern-stoicism-additional-reflections-from-sellars-and-sadler/) 
+- ["What Is Modern Stoicism? – Additional Reflections from Sellars and Sadler"](http://modernstoicism.com/what-is-modern-stoicism-additional-reflections-from-sellars-and-sadler/)
 - ["What is Modern Stoicism?"](https://www.reddit.com/r/Stoicism/comments/6tipz6/what_is_modern_stoicism/)
 - [thread](https://www.reddit.com/r/Stoicism/comments/7bse6d/what_exactly_is_modern_stoicism/)
 
@@ -138,7 +138,7 @@ Most of the discussion of "Modern Stoicism" not being "Stoic" enough centers aro
 ## William B. Irvine's *A Guide to the Good Life*
 
 - [*A Guide to the Good Life* by William B. Irvine](https://global.oup.com/academic/product/a-guide-to-the-good-life-9780195374612?cc=us&lang=en&) -- the book itself
-- ["Review of Irvine’s A Guide to the Good Life: The Ancient Art of Stoic Joy" by Donald Robertson](https://donaldrobertson.name/2013/05/17/review-of-irvines-a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-2009/) 
+- ["Review of Irvine’s A Guide to the Good Life: The Ancient Art of Stoic Joy" by Donald Robertson](https://donaldrobertson.name/2013/05/17/review-of-irvines-a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-2009/)
 - [review by Walter M. Roberts III](http://bmcr.brynmawr.edu/2009/2009-09-28.html)
 - [thread](http://www.reddit.com/r/Stoicism/comments/1b6akp/i_thought_william_irvines_book_on_stoicism_was/), [thread](http://www.reddit.com/r/Stoicism/comments/rkzyd/william_irvine_criticism_and_appreciation_post/)
 - [links to threads](https://www.reddit.com/r/BettermentBookClub/wiki/a_guide_to_the_good_life_discussion) from the /r/BettermentBookClub reading
@@ -173,3 +173,12 @@ Most of the discussion of "Modern Stoicism" not being "Stoic" enough centers aro
 - [*The Porch and the Cross: Ancient Stoic Wisdom for Modern Christian Living*](https://www.angelicopress.org/the-porch-and-the-cross-vost) by Kevin Vost ([review](https://catholicexchange.com/christianity-and-stoicism))
 - [Neostoicism](https://en.wikipedia.org/wiki/Neostoicism) (the 16th century philosophical movement)
 - [Why Stoics?](https://www.stoics.com/why_stoics.html), an article on Stoic influence in Renaissance Europe by Ben R. Schneider, Jr.
+
+## Suicide
+
+- ["Epictetus on Fearing Death" by William O. Stephens](https://people.creighton.edu/~wos87278/Stephens/Ancient-Phil_2014_365-391.pdf)
+- ["Epictetus on Suicide" by Massimo Pigliucci](https://howtobeastoic.wordpress.com/2016/04/05/epictetus-on-suicide-the-open-door-policy/)
+- ["Stoicism and Suicide" by Justin Vacula](http://modernstoicism.com/stoicism-and-suicide-by-justin-vacula/)
+- [pages 233-235 of Rist's *Stoic Philosophy*](https://en.wikipedia.org/w/index.php?title=Special%3ABookSources&isbn=9780521076203)
+- [pages 48-52 of Sandbach's *The Stoics*](https://en.wikipedia.org/w/index.php?title=Special%3ABookSources&isbn=0872202534)
+- [sections 340 and 341  of Arnold's *Roman Stoicism*](https://www.gutenberg.org/files/64488/64488-h/64488-h.htm#section340).

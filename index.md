@@ -17,7 +17,7 @@ Please provide feedback by creating a [github issue](https://github.com/hcosmogr
  - [Predecessors and Successors](./resources#wiki_predecessors_and_successors)
  - [Advanced and scholarly works](./resources#wiki_advanced_and_scholarly_works)
  - [Older introductory overviews](./resources#wiki_older_introductory_overviews)
- - [ Translations of Marcus Aurelius's *Meditations*](./resources#wiki_translations_of_marcus_aurelius.27s_meditations)
+ - [Translations of Marcus Aurelius's *Meditations*](./resources#wiki_translations_of_marcus_aurelius.27s_meditations)
 
 ## Frequently Asked Questions (with answers)
 * [Introductory Questions](./intro_faq)
@@ -89,3 +89,4 @@ Please provide feedback by creating a [github issue](https://github.com/hcosmogr
 - [William B. Irvine's *A Guide to the Good Life*](./fdt#wiki_william_b._irvine.27s_a_guide_to_the_good_life)
 - [Jordan Peterson](./fdt#wiki_jordan_peterson)
 - [Does Stoic ethics depend on the Stoic theology?](./fdt#wiki_does_stoic_ethics_depend_on_the_stoic_theology.3F)
+- [Suicide](./fdt#suicide)
