@@ -6,15 +6,38 @@ Stoicism is a philosophy primarily concerned with finding the best way to live o
 
 ## Is Stoicism something I have to believe in, or commit my life to?
 
-Although the historical sources sometimes emphasize the importance of dedicating one's life to philosophy, in practice many find benefit in doing no more than reading Stoic writing as inspirational material, particularly Marcus Aurelius's Meditations and Epictetus's Enchiridion. (In both cases, they are easily misinterpreted without further study, but this may actually be helpful in letting the reader dig out a meaning that can be incorporated into their existing approach to life.)
+What was important to the Stoics was not attaining or deserving the label "Stoic," but they did think that benefiting from philosophy required dedication to philosophy.
+They did not, however, think that it was necessary to be a Stoic to be a philosopher, and they did not think a philosopher's views should based on faith.
+Rather, they thought that one's views should be arrived at through reason.
+Many of the figures the Stoics presented as role models were not Stoics themselves (e.g., Socrates).
+Sometimes they even belonged to rival schools of philosophy (e.g., [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes)).
 
-No modern person "believes" in orthodox classical Stoicism as a whole, in the way one might believe in a religion. Even at its height, different individual Stoics appear to have felt free to diverge from their predecessors and contemporaries when their own judgement differed. Modern circumstances result in even more diversity; much of the content of the philosophy has been lost with time, and much of what has survived requires updating to accommodate modern science.
+Stoic philosophy included views on a wide variety of philosophical questions, and many people agree with some positions held by the Stoics and not others. Zeno of Citium, the founder of Stoicism, studied with philosophers from several different schools before beginning to teach, and many elements of Stoicism were adapted from schools of philosophy for which Stoicism would later become a rival.
+The Stoics had some views in common with each, but other views that differed, and were therefore considered distinct from each other.
 
-When it was a living school, it was taught in person from one generation to the next. It actively changed over hundreds of years from Ancient Greece to imperial Rome. It's like a house built many generations ago, then burned down and left to rot for a hundred years. What we have left is some of the foundation, occasional stories about the people who lived there, and pictures with people in out of date hats.
+After the founding of the school, views that were part of Stoicism have been adopted or adapted by a wide variety of philosophers and religious denominations outside of Stoicism.
+Just as Stoicism shared views with the schools of philosophy that influenced it yet was different enough to be a distinct from them, these philosophers were influenced by the Stoics without being Stoic themselves.
 
-All we can do is make educated guesses about how people really lived in it. A modern "Stoic" can try and reconstruct it as a museum piece, trying to be as accurate in every detail as possible, but I doubt any modern person would want to live there. Alternately, one might try to renovate it, rebuilding it with modern materials and appliances but trying to remain faithful to the character of the original. Finally, one can study it, trying to find its strengths, and build something new, or use it as inspiration for new additions and other modifications to their existing homes.
+Among modern readers, many have encountered ideas from ancient philosophy for the first time in Stoicism.
+Most find they agree with or are inspired by some elements and not others, and are selective about what they put into practice in their lives.
+Sometimes they find that the Stoic views they agree with are ones the Stoics shared with one or another of its rivals (such as the
+[Epicureans](https://en.wikipedia.org/wiki/Epicureanism) or [Peripatetics](https://en.wikipedia.org/wiki/Peripatetic_school)), and go on to study these other schools in more depth.
+Even more people have been influenced indirectly by Stoicism, and have not even been aware of the influence.
+For example, Stoicism had a strong influence on the development of [cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy), a common method of psychotherapy, but most patients (and even therapists) are unaware of the connection.
+So, many more people have been influenced or inspired by the Stoics than have been Stoic themselves.
 
-Many from Renaissance times onward have found at least the last approach valuable.
+The Stoics did not think that people should adopt philosophical positions based on authority, coercion, or personal loyalty to a given school or system; rather, philosophical positions should be adopted on the basis of rational argument.
+[Diogenes Laertius reports](https://www.gutenberg.org/files/57342/57342-h/57342-h.htm#Page_268) an anecdote about Zeno, when he started attending lectures of by [Stilpo](https://en.wikipedia.org/wiki/Stilpo) (a philosopher from the [Megarian school](https://en.wikipedia.org/wiki/Megarian_school)) after having studied with [Crates of Thebes](https://en.wikipedia.org/wiki/Crates_of_Thebes):
+
+> when Crates dragged him by the cloak away from Stilpo, he said, "O
+> Crates, the proper way to take hold of philosophers is by the ears;
+> so now do you convince me and drag me by them; but if you use force
+> towards me, my body may be with you, but my mind with Stilpo."
+
+So, it is not at all necessary to *become* a Stoic in order to learn *from* the Stoics, and indeed the Stoics themselves would not have approved of adopting Stoic positions except through rational persuasion.
+In order to learn from the Stoics and their philosophy, however, it is necessary to learn *about* Stoicism and the Stoics.
+To learn from any philosophy, you must seriously consider, understand, and contemplate the elements of the system that are most unintuitive to you, or alien to your usual way of thinking.
+At the same time, in the Stoic view, the whole point of learning *about* Stoicism is to learn *from* it: if all you do is learn about it and not from it, the Stoics would have thought that you have gained nothing from your effort.
 
 ## What is Stoicism, considered as a philosophy of life in modern times?
 
