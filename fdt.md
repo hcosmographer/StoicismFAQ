@@ -176,7 +176,6 @@ Most of the discussion of "Modern Stoicism" not being "Stoic" enough centers aro
 
 ## Suicide
 
-- ["Epictetus on Fearing Death" by William O. Stephens](https://people.creighton.edu/~wos87278/Stephens/Ancient-Phil_2014_365-391.pdf)
 - ["Epictetus on Suicide" by Massimo Pigliucci](https://howtobeastoic.wordpress.com/2016/04/05/epictetus-on-suicide-the-open-door-policy/)
 - ["Stoicism and Suicide" by Justin Vacula](http://modernstoicism.com/stoicism-and-suicide-by-justin-vacula/)
 - [pages 233-235 of Rist's *Stoic Philosophy*](https://en.wikipedia.org/w/index.php?title=Special%3ABookSources&isbn=9780521076203)
