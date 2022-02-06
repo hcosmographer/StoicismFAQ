@@ -40,7 +40,7 @@ If the person with the problem does not already know and agree with the relevant
 
 In either case, such coaching requires significant skill and care. When a person is in emotional turmoil, it is important to avoid making them feel defensive, either about their philosophy or their own competence at practicing it. If Alice the Advanced Stoic were trying to help Bob the Buddhist, and Alice said something to Bob that make him feel defensive, then the attempt to help has just added insult to injury. Alice has made a mistake. On the other hand, if Alice helped remind Bob with the coping strategies he already accepts from Buddhism, and thereby helped him get himself together, then she has done well.
 
-## How might a modern student of Stoicism cope with my problem?
+## How might a student of Stoicism cope with my problem?
 
 Stoic training can be divided into three topics or spheres of study: that of desire and aversion (sometimes called the "discipline of desire"), that of impulse (sometimes called the "discipline of action") and that of assent. 
 
@@ -65,7 +65,7 @@ Learning to avoid making these mistaken judgements is not just a matter of memor
 
 There are many other relevant exercises as well; see the resources in the [resources section](./resources#wiki_descriptions_of_stoic_exercises).
 
-## What would a modern student of Stoicism do in my situation?
+## What would a student of Stoicism do in my situation?
 
 The skills of how to act in any given situation are generally outside the scope of Stoic philosophy: it does not say what actions are most likely to produce a given result, or predict the consequences (intended or not) of any given course of action. However, it *is* a part of Stoic philosophy to provide training in how to decide among given courses of action, given an understanding of what the consequences will be. 
 
