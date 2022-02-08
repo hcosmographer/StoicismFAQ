@@ -77,22 +77,24 @@ The "discipline of action" is intended to train the student of Stoicism about [�
 
 Although it is touched on by most of our surviving sources on Stoic philosophy (e.g. Diogenes Laertius, Epictetus, Marcus Aurelius, Seneca), most of them do not describe it in great depth.  The most extensive descriptions we have is the account of the views of the Stoic [Panaetius of Rhodes](https://en.wikipedia.org/wiki/Panaetius)  given by Cicero in [*On Duties*](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm) and Seneca's [*On Benefits*](https://en.wikisource.org/wiki/On_Benefits) and [*On Leisure*](https://en.wikisource.org/wiki/Of_Leisure). Based mostly on these sources, some significant elements of the Stoic view of duties included:
 
-- All people judge what to do based on some combination of what is morally good (virtuous) and what is expedient (most likely to lead to "advantages" or "benefits" -- things other than virtue or vice).
-- Indecision arises when there are apparent conflicts between different virtues, between different advantages, or between what is morally good and what is expedient.
-- To judge whether an act is morally good, consider whether it accords with your nature as a human and your personal nature.
-	- It is helpful to analyze your nature as a human by considering the four cardinal virtues (prudence, justices, courage, and temperance) and their various sub-categories.
-		- When prudence appears to conflict with justice, it is usually just deviousness, not prudence (and not virtuous).
-		- When courage appears to conflict with prudence, it is usually just recklessness, not courage (and not virtuous).
-		- When courage appears to conflict with justice, it is usually just audacity, not courage (and not virtuous).
-		- Temperance rarely even appears to conflict with other virtues.
-	- Because different people have different personal natures, the same decision can be virtuous for one person, but not another.
-	- Your personal nature is not just whatever you want or whatever you feel like, but must be discovered through introspection and experience.
-	- When something appears to be in your personal nature but contrary to your nature as a human, you are mistaken about your personal nature.
-	- Even if they appear virtuous, we should not attempt courses of action we unlikely to be able to carry through.
+- All people judge what to do based on some combination of what is morally good (virtuous) and what is expedient (most likely to lead to "advantages" or "benefits" -- things other than virtue or vice). ([*On Duties* 1.9](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.9))
+- Indecision arises when there are apparent conflicts between different virtues, between different advantages, or between what is morally good and what is expedient. ([*On Duties* 1.10](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.10))
+- To judge whether an act is morally good, consider whether it accords with your nature as a human and your personal nature. ([*On Duties* 1.107-114](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.107))
+	- It is helpful to analyze your nature as a human by considering the four cardinal virtues (prudence, justices, courage, and temperance) and their various sub-categories.  ([*On Duties* 1.15](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.15))
+	- Different virtues sometimes appear to conflict with each other, but they never actually do.
+		- When prudence appears to conflict with justice, it is usually just deviousness, not prudence (and not virtuous). ([*On Duties* 1.63](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.63); [1.153](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.153) (note the distinction between σοφία/sophia and φρόνησις/phronesis-- each is sometimes translated into English as "wisdom," but the distinction is important here); and [1.157](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.157))
+		- When courage appears to conflict with prudence, it is usually just recklessness, not courage (and not virtuous). ([*On Duties* 1.81](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.81))
+		- When courage appears to conflict with justice, it is usually just audacity, not courage (and not virtuous). ([*On Duties* 1.62, 63](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.62)
+		- Temperance rarely even appears to conflict with other virtues, but might occasionally seem to conflict with justice, in which case is is probably justice about which we are mistaken ([*On Duties* 1.159](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.81))
+	- Because different people have different personal natures, the same decision can be virtuous for one person, but not another. ([*On Duties* 1.113-14](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.113))
+	- Your personal nature is not just whatever you want or whatever you feel like, but must be discovered through introspection and experience. ([*On Duties* 1.114](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.114) and [1.117](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.117))
+	- When something appears to be in your personal nature but contrary to your nature as a human, it is human nature that takes priority.  ([*On Duties* 1.110](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.110))
+	- Even if they appear virtuous, we should not attempt courses of action we unlikely to be able to carry through. ([*On Duties* 1.114](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.114), [Epictetus's *Discourses* 3.15](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments/Book_3/Chapter_15), [3.22](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments/Book_3/Chapter_22), [1.2](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments/Book_1/Chapter_2))
+	- It is not only action that can be vicious, but also inaction: passivity is often unjust. ([*On Duties* 1.23](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.23), [1.29](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.29), [1.70-73](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.70))
 - Expedience prioritizes some things over others:
 	- Avoidance of harm (including positive action to prevent harm) is more expedient than positive benefits.
 	- Advantage for many is more expedient than advantage for few (e.g., benefit for humanity is more expedient than advantage for your country, advantage for your country is more expedient than advantage for your family, etc.)
-	- Relationships and roles affect one's duties, for example:
+	- Relationships and roles affect one's duties ([*Enchiridion*](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments/Manual) 30), for example:
 		- Everyone has a role as a citizen of the Cosmopolis (society of all rational beings) ([*Discourse* 2.5.26](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments/Book_2/Chapter_5), [Seneca's *Of Leisure* 4](https://en.wikisource.org/wiki/Of_Leisure)).
 		- As a citizen of one's own country, it is more expedient to help one's own country than another one (but it is still more expedient to help the Cosmopolis).
 		- Usually, you have more duty to a friend than to a stranger,
