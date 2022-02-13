@@ -95,7 +95,7 @@ Although it is touched on by most of our surviving sources on Stoic philosophy (
 - Expedience prioritizes some things over others:
 	- Avoidance of harm (including positive action to prevent harm) is more expedient than positive benefits. ([*On Duties* 3.21, 26-28](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#III.21))
 	- Advantage for many is more expedient than apparent advantage for few. ([*On Duties* 3.30-31](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#III.30))
-		- The interests of the whole of humanity and the individual are actually identical. ([*On Duties* 3.27-28](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#III.27))
+		- The interests of the whole of humanity and the individual are actually identical. ([*On Duties* 3.27-28](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#III.27), and see also the [circles of Hierocles](https://en.wikisource.org/wiki/Political_fragments_of_Archytas_and_other_ancient_Pythagoreans/How_we_ought_to_conduct_ourselves_towards_our_kindred))
 	-  Relationships and roles affect one's duties ([*Enchiridion*](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments/Manual) 30, [*On Duties* I.115](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm#I.115)), for example:
 		- Everyone has a role as a citizen of the Cosmopolis (society of all rational beings) ([*Discourse* 2.5.26](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments/Book_2/Chapter_5), [Seneca's *Of Leisure* 4](https://en.wikisource.org/wiki/Of_Leisure)).
 		- Usually, you have more duty to a friend than to a stranger,
