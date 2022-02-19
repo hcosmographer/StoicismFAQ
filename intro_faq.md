@@ -6,11 +6,10 @@ Stoicism is a philosophy primarily concerned with finding the best way to live o
 
 ## Is Stoicism something I have to believe in, or commit my life to?
 
-What was important to the Stoics was not attaining or deserving the label "Stoic," but they did think that benefiting from philosophy required dedication to philosophy.
-They did not, however, think that it was necessary to be a Stoic to be a philosopher, and they did not think a philosopher's views should be based on faith.
+The Stoics did think that benefiting from philosophy required dedication to philosophy, but they did not think that  attaining or deserving the label "Stoic" was important. They did not think that it was necessary to be a Stoic to be a philosopher, and they did not think a philosopher's views should be based on faith.
 Rather, they thought that one's views should be arrived at through reason.
 Many of the figures the Stoics presented as role models were not Stoics themselves (e.g., Socrates).
-Sometimes they even belonged to rival schools of philosophy (e.g., [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes)).
+Sometimes they even belonged to rival schools of philosophy (e.g., [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes)  and [Stilpo of Megara](https://en.wikipedia.org/wiki/Stilpo)).
 
 Stoic philosophy included views on a wide variety of philosophical questions, and many people agree with some positions held by the Stoics and not others. Zeno of Citium, the founder of Stoicism, studied with philosophers from several different schools before beginning to teach, and many elements of Stoicism were adapted from schools of philosophy for which Stoicism would later become a rival.
 The Stoics had some views in common with each, but other views that differed, and were therefore considered distinct from each other.

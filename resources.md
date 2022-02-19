@@ -128,7 +128,7 @@ Cicero left a considerable body of work, and *On Duties* is not the only one of 
 
 Good resources for exercises a modern person inspired by Stoicism might want to practice include:
 
- * [24 Stoic Spiritual Exercises](https://drive.google.com/file/d/0B9n9nTMxpulydGdMQWY2ekdlb00/view), quotes from Epictetus and Marcus Aurelius with commentary by Massimo Pigliucci and Greg Lopez, free online.
+ * [24 Stoic Spiritual Exercises](https://stoicfellowship.com/assets/pdfs/24%20Stoic%20Spiritual%20Exercises.pdf), quotes from Epictetus and Marcus Aurelius with commentary by Massimo Pigliucci and Greg Lopez, free online.
  * [Practical Stoicism](https://www.reddit.com/r/Stoicism/comments/4bz797/practical_stoicism/), a free ebook by /u/GreyFreeman
  * Donald Robertson's [*Stoicism and the Art of Happiness*](http://en.wikipedia.org/w/index.php?title=Special%3ABookSources&isbn=1444187104) or [*How to Think Like a Roman Emperor*](http://en.wikipedia.org/w/index.php?title=Special%3ABookSources&isbn=1250196620)
  * Massimo Pigliucci's [*A Handbook for New Stoics*](http://en.wikipedia.org/w/index.php?title=Special%3ABookSources&isbn=1615195335)
