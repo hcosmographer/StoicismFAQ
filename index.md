@@ -33,7 +33,7 @@ Please provide feedback by creating a [github issue](https://github.com/hcosmogr
    - [What motivates a Stoic?](./big#wiki_what_motivates_a_stoic.3F)
    - [What is the goal of life?](./big#wiki_what_is_the_goal_of_life.3F)
    - [How do I find meaning in life?](./big#wiki_how_do_i_find_meaning_in_life.3F)
-* [Advice and coping with problems](https://www.reddit.com/r/Stoicism/wiki/advice)
+* [Advice and coping with problems](./advice)
    - [How can Stoicism help me with my problem?](./advice#wiki_how_can_stoicism_help_me_with_my_problem.3F)
    - [How would a Stoic help me with my problem?](./advice#wiki_how_would_a_stoic_help_me_with_my_problem.3F)
    - [How might a student of Stoicism cope with my problem?](./advice#wiki_how_might_a_student_of_stoicism_cope_with_my_problem.3F)
