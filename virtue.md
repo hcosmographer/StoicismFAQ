@@ -5,9 +5,11 @@
 When applied to humans in the context of Stoic ethics, [ἀρετή/arete](https://en.wikipedia.org/wiki/Arete_%28moral_virtue%29) (usually translated as "virtue") meant something like "excellence of character," and kalos/κάλος (sometimes translated as "virtuous," but sometimes "honorable" or "becoming" instead) meant "morally beautiful." [The Stoics thought that the two referred to the same thing.](https://www.gutenberg.org/files/57342/57342-h/57342-h.htm#Page_296) There are two basic approaches to describing in more detail what the Stoics meant by "virtuous:" practical, and theoretical.
 
 When offering practical advice, Stoic writers seem to assume that what is virtuous and what isn't is pretty obvious. From Seneca's [Letter 71](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_71):
+
 > To infer the nature of this Supreme Good, one does not need many words or any round-about discussion; it should be pointed out with the forefinger, so to speak, and not be dissipated into many parts.
 
 From Seneca's [*On Benefits* book IV](https://en.wikisource.org/wiki/On_Benefits/Book_IV):
+
 >  Just as there is no law which bids parents love and indulge their children, seeing that it is superfluous to force us into the path which we naturally take, just as no one needs to be urged to love himself, since self-love begins to act upon him as soon as he is born, so there is no law bidding us to seek that which is honourable in itself; for such things please us by their very nature, and so attractive is virtue that the disposition even of bad men leads them to approve of good rather than of evil... Nature bestows upon us all this immense advantage, that the light of virtue shines into the minds of all alike; even those who do not follow her, behold her.
 
 One's ability to know what is virtuous is perhaps analogous to one's ability to recognize certain sounds as being music. Although they did offer theoretical explanations, they did not rely on these to motivate being virtuous. You are not going to persuade anyone to take guitar lessons using a neurological account of why people like music, or definitions of music in terms of harmonics, beats, etc. The only real way to do it is to play them examples of music and say, "see, that!"
@@ -25,18 +27,23 @@ The classical Stoics took a theoretical approach as well, perhaps analogous to a
 Diogenes Laërtius (VII.LII) lists a number of variations on the Stoic definition of "the chief good", attributing them to a variety of different specific Stoics.
 
 From Zeno, Cleanthes, Posidonius, and Hecaton:
+
 > The chief good was confessedly to live according to nature; which is to live according to virtue, for nature leads us to this point.
 
 From [Cleanthes](https://en.wikipedia.org/wiki/Cleanthes):
+
 > Virtue is a disposition of the mind always consistent and always harmonious; that one ought to seek it out for its own sake, without being influenced by fear or hope by any external influence. Moreover, that it is in it that happiness consists, as producing in the soul the harmony of a life always consistent with itself; and that if a rational animal goes the wrong way, it is because it allows itself to be misled by the deceitful appearances of exterior things, or perhaps by the instigation of those who surround it; for nature herself never gives us any but good inclinations.
 
 From [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus):
+
 > To live according to virtue is the same thing as living according to one’s experience of those things which happen by nature... For our individual natures are all parts of universal nature; on which account the chief good is to live in a manner corresponding to nature, and that means corresponding to one’s own nature and to universal nature; doing none of those things which the common law of mankind is in the habit of forbidding, and that common law is identical with that right reason which pervades everything, being the same with Jupiter, who is the regulator and chief manager of all existing things.
 
 From [Diogenes of Babylon](https://en.wikipedia.org/wiki/Diogenes_of_Babylon):
+
 >  The chief good is to act according to sound reason in our selection of things according to our nature.
 
 From Archidemus:
+
 > [The chief good is] to be living in the discharge of all becoming duties.
 
 [Arius Didymus](https://en.wikipedia.org/wiki/Arius_Didymus), included in [Stobaeus](https://en.wikipedia.org/wiki/Stobaeus)'s anthology, gives a similar catalog, but asserts that Zeno's original formulation was simply to "live consistently," and that "with nature" was added by Cleanthes, his immediate successor.

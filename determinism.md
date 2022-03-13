@@ -1,6 +1,6 @@
-## Determinism and free will
+# Determinism and free will
 
-### Were the classical Stoics determinists?
+## Were the classical Stoics determinists?
 
 Yes. They asserted that there are no effects (changes or differences in
 state of a body) that are not determined by causes, and that a "chain"
@@ -41,7 +41,7 @@ true.
 These free-will related objections to determinism are addressed in
 separate questions below.
 
-### If Stoics believed in determinism, what is "in our control?"
+## If Stoics believed in determinism, what is "in our control?"
 
 The term usually translated as "up to us" or "in our power" is ἐφ'
 ἡμῖν (eph' hêmin). Long argues (in his essay *Freedom and Determinism
@@ -128,7 +128,7 @@ decisions). Free will corresponds to our actions being functions of
 these (but not necessarily only these) parameters. Because our action
 does depend on these parameters, there is no contradiction.
 
-This conception of Eph' hêmin also works well within the context of
+This conception of eph' hêmin also works well within the context of
 Epictetus's writing. Consider the opening paragraph of the
 [Enchiridion](http://classics.mit.edu/Epictetus/epicench.html)
 
@@ -149,7 +149,7 @@ philosophical departure from Zeno, Chrysippus, and others, the emphasis on
 eph' hêmin becomes an idiosyncratic, alternate description of the same 
 basic approach.
 
-### How did the Stoics reconcile determinism with moral responsibility?
+## How did the Stoics reconcile determinism with moral responsibility?
 
 Many critics of determinism, modern and ancient, allege that if I am
 fated to do something, it is unjust to reward or punish me for it,
@@ -174,7 +174,7 @@ praise and punishment aren't effective, so just because something is
 "free will" in the eph' hêmin sense does not mean that necessarily has
 moral implications.
 
-### If everything is determined, what is the point of trying to do anything?
+## If everything is determined, what is the point of trying to do anything?
 
 A classical attack on Stoic determinism, the "lazy argument," went
 something like this. Lets say I want pizza for dinner. The pizza
@@ -254,7 +254,7 @@ The last is from [book 4, *Discourse* 1](https://en.wikisource.org/wiki/Epictetu
 
 > So too in living, it is knowledge of how to live.
 
-### What resources are there for further exploration of Stoic determinism and free will?
+## What resources are there for further exploration of Stoic determinism and free will?
 
 Several older discussions on the Stoicism subreddit function as useful
 philosophical dialogues, including [this

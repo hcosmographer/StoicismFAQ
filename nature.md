@@ -8,7 +8,7 @@ Its first use in the context of philosophy was by the pre-Socratics, roughly 300
 
 Later, the Sophists contrasted φύσις/physis (nature) with νόμος/nómos (law/custom/tradition) as different, competing influences on human behavior. Unlike the pre-Socratics, the "nature" being referred to was the nature of a human being, rather than that of the universe as a whole. (See [this IEP entry](https://www.iep.utm.edu/sophists/#SH3a) for more.)
 
-Aristotle later used the concept of nature extensively in [his description of mechanics](https://en.wikipedia.org/wiki/Physics_(Aristotle\)). According to Aristotle, a thing followed its nature when it was growing or changing because of what it was -- because of its own characteristics -- rather than due to what was being done to it. For example, when an oak tree grows from an acorn, it is following its nature, but when a carpenter cuts it into lumber and builds a bed with it, it is not.
+Aristotle later used the concept of nature extensively in [his description of mechanics](https://en.wikipedia.org/wiki/Physics_%28Aristotle%29). According to Aristotle, a thing followed its nature when it was growing or changing because of what it was -- because of its own characteristics -- rather than due to what was being done to it. For example, when an oak tree grows from an acorn, it is following its nature, but when a carpenter cuts it into lumber and builds a bed with it, it is not.
 
 Finally, the Cynics used the same physis/nomos contrast as the Sophists, but unlike the Sophists, they saw the φύσις/physis (nature) of a human as fundamentally good, and νόμος/nómos (law/custom/tradition) as fundamentally bad, and advocated following nature only and rejecting law and culture entirely.
 

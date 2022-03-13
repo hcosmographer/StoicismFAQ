@@ -1,0 +1,8 @@
+---
+title: <em><em>F</em></em>requently <em><em>A</em></em>sked <em><em>Q</em></em>uestions on Stoicism
+author: "H. &lt;h@phrontistery.blog&gt;"
+rights:  Creative Commons Attribution Share Alike 4.0
+language: en-US
+cover-image: cover.png
+...
+

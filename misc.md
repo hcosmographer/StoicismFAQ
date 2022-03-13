@@ -31,7 +31,7 @@ The link between ἐφ' ἡμῖν/eph' hêmin/under our control and προαί�
 
 In this interpretation, Epictetus's examples make sense: our "thought, impulse, will to get and will to avoid", etc.,  are activities of our moral purpose, while our "body, property, reputation, office" are only connected to it by links further down the chain of cause and effect. The declaration and examples in first passage in the Enchiridion closely parallel Stoic ethics as expressed by Epictetus's predecessors, starting with the founder of the school, Zeno of Citium:
 
-Of things that are, some there are  
+> Of things that are, some there are  
 Which are good and some which are evil,  
 And some which are neither good nor evil.  
 And the good are these:  
