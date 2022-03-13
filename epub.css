@@ -1,0 +1,90 @@
+/* This defines styles and classes used in the book */
+@font-face {
+font-family: LibertinusSerifInitials;
+font-style: normal;
+font-weight: normal;
+src:url("../fonts/LibertinusSerifInitials-Regular.otf");
+}
+@font-face {
+font-family: LibertinusSerif;
+font-style: normal;
+font-weight: normal;
+src:url("../fonts/LibertinusSerif-Regular.otf");
+}
+@font-face {
+font-family: LibertinusSerif;
+font-style: normal;
+font-weight: bold;
+src:url("../fonts/LibertinusSerif-Bold.otf");
+}
+@font-face {
+font-family: LibertinusSerif;
+font-style: italic;
+font-weight: normal;
+src:url("../fonts/LibertinusSerif-Italic.otf");
+}
+@font-face {
+font-family: LibertinusSerif;
+font-style: italic;
+font-weight: bold;
+src:url("../fonts/LibertinusSerif-BoldItalic.otf");
+}
+@font-face {
+font-family: LibertinusMono;
+font-style: italic;
+font-weight: bold;
+src:url("../fonts/LibertinusMono-Regular.otf");
+}
+@font-face {
+font-family: LibertinusSans;
+font-style: normal;
+font-weight: normal;
+src:url("../fonts/LibertinusSans-Regular.otf");
+}
+@font-face {
+font-family: LibertinusSans;
+font-style: normal;
+font-weight: bold;
+src:url("../fonts/LibertinusSans-Bold.otf");
+}
+@font-face {
+font-family: LibertinusSans;
+font-style: italic;
+font-weight: normal;
+src:url("../fonts/LibertinusSans-Italic.otf");
+}
+
+body { font-family: "LibertinusSerif"; margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: "LibertinusMono"; }
+blockquote { font-family: "LibertinusSans"; margin: 0; padding: 0; text-align: justify; font-size: small;}
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+/* For title, author, and date on the cover page */
+h1.title { }
+h1.title em em { font-family: "LibertinusSerifInitials"; font-style: normal }
+p.author { }
+p.date { }
+nav#toc ol,
+nav#landmarks ol { padding: 0; margin-left: 1em; }
+nav#toc ol li,
+nav#landmarks ol li { list-style-type: none; margin: 0; padding: 0; }
+a.footnote-ref { vertical-align: super; }
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+code{ white-space: pre-wrap; }
+span.smallcaps{ font-variant: small-caps; }
+span.underline{ text-decoration: underline; }
+q { quotes: "“" "”" "‘" "’"; }
+div.column{ display: inline-block; vertical-align: top; width: 50%; }
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+@media screen { /* Workaround for iBooks issue; see #6242 */
+  .sourceCode {
+    overflow: visible !important;
+    white-space: pre-wrap !important;
+  }
+}
+
