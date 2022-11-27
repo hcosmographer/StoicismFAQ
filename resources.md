@@ -21,7 +21,7 @@ inaccurate. Some of the best (accurate) resources are:
 
 There is no "one best" work for a modern person to study to learn about Stoicism. Instead, there are a variety of resources, the suitability of which depends on exactly what the reader is looking for. The following list includes common choices, and ones regular posters on /r/Stoicism have found particularly useful.
 
-**The [*Discourses* and *Enchiridion* of Epictetus](http://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)**
+**The [*Discourses* and *Enchiridion* of Epictetus](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments)**
 
 There were originally twelve formal lectures by Epictetus, plus eight books of informal discussions (*Discourses*) and a handbook of short reminders (the "Enchiridion") recorded by his student, Arrian. Of these, all of the lectures and four of the books of discourses are lost: what remains available are four of the books of discourses and the handbook.
 
