@@ -32,7 +32,7 @@ Threads linked to are selected to cover a range of typical viewpoints covered in
 ## What does Stoicism say about politics?
 
 - [thread](https://www.reddit.com/r/Stoicism/comments/5fnglg/if_there_were_a_stoic_political_ideology_what/), [thread](https://www.reddit.com/r/Stoicism/comments/5w75as/how_does_a_stoic_deal_with_todays_political/), [thread](https://www.reddit.com/r/Stoicism/comments/ukaqj/stoic_virtues_1965_libertarian_article/)
-- [Zeno's *Republic*](https://en.wikipedia.org/wiki/Republic_(Zeno\))
+- [Zeno's *Republic*](https://en.wikipedia.org/wiki/Republic_(Zeno))
 - ["Can you be a Stoic and a political activist?" by Christopher Gill](https://modernstoicism.com/can-you-be-a-stoic-and-a-political-activist-by-christopher-gill-2/)
 - ["Stoic Politics and the Republic of Zeno" by Donald Robertson](https://donaldrobertson.name/2017/11/23/stoic-politics-and-the-republic-of-zeno/)
 - [Cicero's "On Duties"](https://en.wikipedia.org/wiki/De_Officiis) is indirectly relevant
