@@ -14,6 +14,7 @@ inaccurate. Some of the best (accurate) resources are:
  * [Donald Robertson's blog](http://philosophy-of-cbt.com/stoic-philosophy-blog-archives/) has several useful introductory posts, including [The System of Stoic Philosophy](http://philosophy-of-cbt.com/2012/10/18/the-system-of-stoic-philosophy/), [A Simplified Modern Approach to Stoicism](http://philosophy-of-cbt.com/2013/02/03/a-simplified-modern-approach-to-stoicism/), and [An Introduction to Stoic Practice: The Three Disciplines of Stoicism](http://philosophy-of-cbt.com/2013/02/20/introduction-to-stoicism-the-three-disciplines/).
  * [The Stoic Philosophy](http://www.reddit.com/r/Stoicism/wiki/murray_lecture) is a transcript of a 1915 lecture by [Gilbert Murray](http://en.wikipedia.org/wiki/Gilbert_Murray). Although it reflects the attitudes and prejudices of the culture and times in which it was delivered as well, it still provides a reasonable introduction to the philosophy.
  * [Captains of the Soul](https://digital-commons.usnwc.edu/nwc-review/vol64/iss1/4/) by Michael Evans is a short overview specifically tailored for members of the military.
+ * [What is Stoicism?](https://www.perlego.com/knowledge/study-guides/what-is-stoicism/) is a study guide by Andy Cain which outlines the history of stoicism, key figures and further reading materials.
 
 
 
